@@ -1,0 +1,6 @@
+EMP_ID, COMPANY, MONTH, DAY, HOURS_WORKED, WAGE_PER_HOUR, DAILY_WAGE, WORK_DAYS
+1, infin, Jan, 1, 0, 50, 0, 15
+1, infin, Jan, 2, 4, 50, 200, 15
+1, infin, Jan, 3, 4, 50, 200, 15
+1, infin, Jan, 4, 0, 50, 0, 15
+1, infin, Jan, 5, 0, 50, 0, 15
